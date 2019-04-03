@@ -1,0 +1,2 @@
+# globalcity
+global cities
